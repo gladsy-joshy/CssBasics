@@ -1,0 +1,14 @@
+.Container{
+
+border:1px solid;
+
+
+}
+.Image{
+width:300px;
+height:300px;
+border-radius:50%;
+background-image:url('https://th.bing.com/th/id/OIP.I4X_ilJ5O8dMg1yrVXovmQHaEo?rs=1&pid=ImgDetMain');
+padding:10px;
+margin:10px;
+}

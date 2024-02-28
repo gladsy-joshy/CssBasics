@@ -1,0 +1,13 @@
+.Container{
+	height:100vh;
+	display:flex;
+	flex-wrap:wrap;
+	align-content:space-betweeen;
+	
+	
+}
+.Box{
+width:300px;
+height:30px;
+border:1px solid;
+}
